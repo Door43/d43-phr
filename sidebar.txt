@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[phr:home|Door43 (phr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-phr|d43-phr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-phr/archive/master.zip|d43-phr.zip]]
+
+**Recent Changes**
+{{changes>ns = phr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/phr|Ethnologue data]]
+
